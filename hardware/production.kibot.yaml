@@ -93,6 +93,8 @@ outputs:
         - Footprint
         - field: 'LCSC#'
           name: 'LCSC Part #'
+        - field: 'JLC#'
+          name: 'LCSC Part #'
       csv:
         hide_pcb_info: true
         hide_stats_info: true

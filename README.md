@@ -42,3 +42,8 @@ then install starfeldt bmc and config as:
 
 or if you're not a devguard customer maybe look at pikvm.org for a free alternative
 
+
+
+# fan
+
+https://github.com/neg2led/cm4io-fan
